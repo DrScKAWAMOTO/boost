@@ -635,7 +635,7 @@
 	branch = .
 [submodule "fiber"]
 	path = libs/fiber
-	url = https://github.com/DrScKAWAMOTO/fiber.git
+	url = git@github.com:DrScKAWAMOTO/fiber.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "process"]
